@@ -1,0 +1,18 @@
+[
+  { "day": "May 31", "title": "World No Tobacco Day (Anti-Tobacco Day)", "color": "from-red-50 to-orange-50 text-red-800 border-red-200", "icon": "🚭" },
+  { "day": "June 1", "title": "Global Day of Parents & World Milk Day", "color": "from-blue-50 to-indigo-50 text-blue-900 border-blue-200", "icon": "🥛" },
+  { "day": "June 2", "title": "Telangana Formation Day Special", "color": "from-emerald-50 to-teal-50 text-emerald-800 border-emerald-200", "icon": "🌅" },
+  { "day": "June 3", "title": "World Bicycle Day", "color": "from-violet-50 to-indigo-50 text-indigo-800 border-violet-200", "icon": "🚲" },
+  { "day": "June 4", "title": "Intl. Day of Innocent Children Victims of Aggression", "color": "from-slate-50 to-slate-100 text-slate-800 border-slate-300", "icon": "🕊️" },
+  { "day": "June 5", "title": "World Environment Day", "color": "from-green-50 to-emerald-50 text-emerald-800 border-green-200", "icon": "🌿" },
+  { "day": "June 7", "title": "World Food Safety Day", "color": "from-amber-50 to-yellow-50 text-yellow-850 border-amber-200", "icon": "🍎" },
+  { "day": "June 8", "title": "World Oceans Day & Brain Tumor Day", "color": "from-cyan-50 to-blue-100 text-cyan-950 border-cyan-200", "icon": "🌊" },
+  { "day": "May 30", "title": "National Smile Day & World MS Day", "color": "from-yellow-50 to-amber-50 text-amber-900 border-amber-200", "icon": "😊" },
+  { "day": "May 29", "title": "International Everest Day", "color": "from-rose-50 to-indigo-50 text-indigo-800 border-rose-200", "icon": "🏔️" },
+  { "day": "May 28", "title": "World Menstrual Hygiene Day", "color": "from-pink-50 to-rose-50 text-rose-800 border-pink-200", "icon": "🩸" },
+  { "day": "May 27", "title": "National Memorial Day & Children's Day", "color": "from-purple-50 to-indigo-50 text-indigo-800 border-purple-200", "icon": "🎈" },
+  { "day": "May 25", "title": "World Thyroid Day & Africa Day", "color": "from-orange-50 to-amber-50 text-orange-900 border-orange-200", "icon": "🌍" },
+  { "day": "May 24", "title": "Commonwealth Day", "color": "from-blue-50 to-sky-50 text-blue-900 border-blue-200", "icon": "🏆" },
+  { "day": "May 22", "title": "International Day for Biological Diversity", "color": "from-green-50 to-teal-50 text-green-900 border-green-220", "icon": "🧬" },
+  { "day": "May 20", "title": "World Bee Day", "color": "from-yellow-50 to-amber-50 text-amber-900 border-yellow-200", "icon": "🐝" }
+]

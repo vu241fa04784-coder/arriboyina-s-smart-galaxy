@@ -1,0 +1,6 @@
+{
+  "name": "Arriboyina's",
+  "description": "A smart current affairs and social learning platform for civil services exam preparation, featuring lag-free full narratives, interactive voice broadcaster read-outs, multi-lingual scripts, and 6-7 line on-demand AI analytical breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
